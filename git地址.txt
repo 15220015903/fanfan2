@@ -1,0 +1,9 @@
+git@github.com:15220015903/fanfan.git
+
+
+Couldn't load this key (OpenSSH SSH-2 private key(old PEM format))的解决办法
+https://blog.csdn.net/weixin_42709585/article/details/81068100
+
+参考文档：
+wiki.jenkins.io/display/JENKINS
+javadoc.jenkins-ci.org
